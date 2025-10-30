@@ -59,10 +59,7 @@ DB_HOST=localhost
 DB_PORT=5432
 
 SECRET_KEY=your_secret_key
-
-
-
-
+```
 ---
 
 ## English
@@ -80,3 +77,5 @@ Includes an admin panel built with Flask-Admin and PostgreSQL logging.
 
 ### Stack
 Python 3.11, aiogram 3.22, Flask, Flask-Admin, SQLAlchemy, PostgreSQL, aiohttp
+
+---
