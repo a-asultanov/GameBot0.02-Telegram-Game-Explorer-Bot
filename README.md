@@ -37,7 +37,7 @@
 
 ```bash
 # 1. Клонируем репозиторий
-git clone https://github.com/arsen/GameBot0.02.git
+git clone https://github.com/a-asultanov/GameBot0.02-Telegram-Game-Explorer-Bot.git
 cd GameBot0.02
 
 # 2. Устанавливаем зависимости
