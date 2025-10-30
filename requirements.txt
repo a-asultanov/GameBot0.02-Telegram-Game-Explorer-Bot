@@ -1,0 +1,9 @@
+aiogram==3.22.0
+aiohttp==3.12.15
+Flask==3.1.2
+Flask-Admin==2.0.0
+Flask-SQLAlchemy==3.1.1
+SQLAlchemy==2.0.44
+WTForms==3.2.1
+python-dotenv==1.1.1
+psycopg2-binary==2.9.11
